@@ -1,0 +1,1 @@
+import{a1 as t}from"./index-964a083c.js";const i=t("predict",{state:()=>({predictions:{}}),actions:{setPrediction(t,i){this.predictions[t]=i},getPrediction(t){return this.predictions[t]||null},set(t){for(let i in t)this[i]=t[i]}}});export{i as u};
