@@ -1,0 +1,1 @@
+import{a3 as i}from"./index-f90e4df2.js";const t=i("predict",{state:()=>({predictions:{}}),actions:{setPrediction(i,t){this.predictions[i]=t},getPrediction(i){return this.predictions[i]||null},set(i){for(let t in i)this[t]=i[t]},appendTitle(i,t){this.predictions[i]&&this.predictions[i][0]&&(this.predictions[i][0].title+=t)}}});export{t as u};
